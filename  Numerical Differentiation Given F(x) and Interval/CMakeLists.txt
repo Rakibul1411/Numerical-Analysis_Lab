@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(_Numerical_Differentiation_Given_F_x__and_Interval)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(_Numerical_Differentiation_Given_F_x__and_Interval main.cpp)
