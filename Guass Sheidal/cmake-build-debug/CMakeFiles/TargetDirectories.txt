@@ -1,0 +1,3 @@
+/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Guass Sheidal/cmake-build-debug/CMakeFiles/Guass_Sheidal.dir
+/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Guass Sheidal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Guass Sheidal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

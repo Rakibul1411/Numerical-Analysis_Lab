@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Gaussian_Elemination",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Gaussian_Elemination::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Gaussian_Elemination-Debug-f5bbab5d80b0d6817a90.json",
+					"name" : "Gaussian_Elemination",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Gaussian Elemination/cmake-build-debug",
+		"source" : "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Gaussian Elemination"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

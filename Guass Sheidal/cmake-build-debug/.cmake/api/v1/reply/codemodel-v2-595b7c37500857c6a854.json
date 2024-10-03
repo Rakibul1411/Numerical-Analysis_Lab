@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Guass_Sheidal",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Guass_Sheidal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Guass_Sheidal-Debug-0aeb5029ca5b554bafe2.json",
+					"name" : "Guass_Sheidal",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Guass Sheidal/cmake-build-debug",
+		"source" : "/Users/md.rakibulislam/Desktop/3rd Semester All Courses Lab Codes/MATH-304/Guass Sheidal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
